@@ -1,5 +1,5 @@
 pipeline{
-  agent {label "mynode"}
+  agent {label "built-in"}
   tools{
     nodejs "Nodejs"
   }
